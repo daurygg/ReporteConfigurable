@@ -1,0 +1,11 @@
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.csproj.AssemblyReference.cache
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.csproj.SuggestedBindingRedirects.cache
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing_Reporteconfigurable.Form1.resources
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing_Reporteconfigurable.Properties.Resources.resources
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.csproj.GenerateResource.cache
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.csproj.CoreCompileInputs.cache
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\bin\Debug\Testing Reporteconfigurable.exe.config
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\bin\Debug\Testing Reporteconfigurable.exe
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\bin\Debug\Testing Reporteconfigurable.pdb
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.exe
+G:\Programación Cursos\Patron de diseño MVP\Testing Reporteconfigurable\Testing Reporteconfigurable\obj\Debug\Testing Reporteconfigurable.pdb
